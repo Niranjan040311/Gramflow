@@ -1,0 +1,1061 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "username": "john_doe",
+        "fullName": "John Doe",
+        "profilePic": "src/assets/users/john_doe.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post1.jpeg",
+      "caption": "Enjoying the sunset 🌅 #relax #nature",
+      "likes": 324,
+      "isLiked": false,
+      "timestamp": "2025-11-01T14:30:00Z",
+      "location": "Malibu Beach, California",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "sarah_w",
+          "text": "Wow, beautiful view! 😍",
+          "timestamp": "2025-11-01T15:00:00Z"
+        },
+        {
+          "id": "c2",
+          "username": "mike23",
+          "text": "Take me there next time bro!",
+          "timestamp": "2025-11-01T15:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "user": {
+        "username": "emma_art",
+        "fullName": "Emma Thompson",
+        "profilePic": "src/assets/users/emma_art.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post2.jpeg",
+      "caption": "My latest painting 🎨✨ #artistlife",
+      "likes": 742,
+      "isLiked": true,
+      "timestamp": "2025-11-02T10:00:00Z",
+      "location": "New York City",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "artlover22",
+          "text": "Amazing work! 👏",
+          "timestamp": "2025-11-02T10:30:00Z"
+        },
+        {
+          "id": "c2",
+          "username": "lucy_lens",
+          "text": "Love the color tones 😍",
+          "timestamp": "2025-11-02T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "user": {
+        "username": "travel_with_ali",
+        "fullName": "Ali Khan",
+        "profilePic": "src/assets/users/travel_with_ali.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post3.jpeg",
+      "caption": "Street food adventures 🍜 #bangkok #travel",
+      "likes": 189,
+      "isLiked": false,
+      "timestamp": "2025-11-03T08:45:00Z",
+      "location": "Bangkok, Thailand",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "food_trails",
+          "text": "Street food goals 😋",
+          "timestamp": "2025-11-03T09:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "user": {
+        "username": "lucy_lens",
+        "fullName": "Lucy Brown",
+        "profilePic": "src/assets/users/lucy_lens.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post4.jpeg",
+      "caption": "Capturing smiles 📸",
+      "likes": 520,
+      "isLiked": false,
+      "timestamp": "2025-11-03T18:30:00Z",
+      "location": "Paris, France",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "john_doe",
+          "text": "Great shot!",
+          "timestamp": "2025-11-03T19:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "user": {
+        "username": "chef_mario",
+        "fullName": "Mario Rossi",
+        "profilePic": "src/assets/users/chef_mario.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post5.jpeg",
+      "caption": "Homemade pasta night 🍝 #italianfood",
+      "likes": 987,
+      "isLiked": true,
+      "timestamp": "2025-11-04T12:00:00Z",
+      "location": "Rome, Italy",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "foodie_fan",
+          "text": "Looks delicious!",
+          "timestamp": "2025-11-04T12:20:00Z"
+        },
+        {
+          "id": "c2",
+          "username": "emma_art",
+          "text": "Teach me your recipe!",
+          "timestamp": "2025-11-04T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "user": {
+        "username": "tech_jake",
+        "fullName": "Jake Wilson",
+        "profilePic": "src/assets/users/tech_jake.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post6.jpeg",
+      "caption": "Just built a new PC ⚙️💻 #gamerlife",
+      "likes": 412,
+      "isLiked": false,
+      "timestamp": "2025-11-04T18:45:00Z",
+      "location": "Austin, Texas",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "emma_art",
+          "text": "That setup looks insane!",
+          "timestamp": "2025-11-04T19:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "user": {
+        "username": "fitness_amy",
+        "fullName": "Amy Johnson",
+        "profilePic": "src/assets/users/fitness_amy.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post7.jpeg",
+      "caption": "Leg day 🔥💪 #gymmotivation",
+      "likes": 867,
+      "isLiked": false,
+      "timestamp": "2025-11-05T09:15:00Z",
+      "location": "Los Angeles, California",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "lucy_lens",
+          "text": "Goals! 👏",
+          "timestamp": "2025-11-05T09:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "user": {
+        "username": "pet_paradise",
+        "fullName": "Sophie Turner",
+        "profilePic": "src/assets/users/pet_paradise.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post8.jpeg",
+      "caption": "Milo’s first walk 🐶❤️",
+      "likes": 1140,
+      "isLiked": true,
+      "timestamp": "2025-11-05T14:00:00Z",
+      "location": "London, UK",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "john_doe",
+          "text": "So cute!!",
+          "timestamp": "2025-11-05T14:10:00Z"
+        },
+        {
+          "id": "c2",
+          "username": "food_trails",
+          "text": "Puppy power 🐕",
+          "timestamp": "2025-11-05T14:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "user": {
+        "username": "coder_max",
+        "fullName": "Max Lee",
+        "profilePic": "src/assets/users/coder_max.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post9.jpeg",
+      "caption": "Late night debugging 💻☕ #devlife",
+      "likes": 215,
+      "isLiked": false,
+      "timestamp": "2025-11-06T01:20:00Z",
+      "location": "Seoul, South Korea",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "tech_jake",
+          "text": "I feel this 😩",
+          "timestamp": "2025-11-06T02:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "user": {
+        "username": "travel_zoe",
+        "fullName": "Zoe Carter",
+        "profilePic": "src/assets/users/travel_zoe.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post10.jpeg",
+      "caption": "Bali vibes 🌴✨ #wanderlust",
+      "likes": 1500,
+      "isLiked": true,
+      "timestamp": "2025-11-06T09:00:00Z",
+      "location": "Bali, Indonesia",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "emma_art",
+          "text": "So jealous 😍",
+          "timestamp": "2025-11-06T09:20:00Z"
+        },
+        {
+          "id": "c2",
+          "username": "travel_with_ali",
+          "text": "The dream life!",
+          "timestamp": "2025-11-06T09:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "user": {
+        "username": "mark_music",
+        "fullName": "Mark Rivera",
+        "profilePic": "src/assets/users/mark_music.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post11.jpeg",
+      "caption": "Studio session 🎶 #producerlife",
+      "likes": 650,
+      "isLiked": false,
+      "timestamp": "2025-11-06T12:00:00Z",
+      "location": "Nashville, USA",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "john_doe",
+          "text": "Drop the beat! 🔥",
+          "timestamp": "2025-11-06T12:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "user": {
+        "username": "luna_reads",
+        "fullName": "Luna Park",
+        "profilePic": "src/assets/users/luna_reads.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post12.jpeg",
+      "caption": "Current read 📚✨",
+      "likes": 328,
+      "isLiked": false,
+      "timestamp": "2025-11-06T14:00:00Z",
+      "location": "Toronto, Canada",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "emma_art",
+          "text": "Love that book!",
+          "timestamp": "2025-11-06T14:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "user": {
+        "username": "green_thumb",
+        "fullName": "Olivia Green",
+        "profilePic": "src/assets/users/green_thumb.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post13.jpeg",
+      "caption": "My new plant babies 🌿💚",
+      "likes": 204,
+      "isLiked": false,
+      "timestamp": "2025-11-06T16:30:00Z",
+      "location": "Portland, Oregon",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "luna_reads",
+          "text": "So lush! 🌱",
+          "timestamp": "2025-11-06T17:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "user": {
+        "username": "drone_guy",
+        "fullName": "Ethan Kim",
+        "profilePic": "src/assets/users/drone_guy.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post14.jpeg",
+      "caption": "Cityscape from above 🚁 #dronephotography",
+      "likes": 989,
+      "isLiked": true,
+      "timestamp": "2025-11-06T18:15:00Z",
+      "location": "Dubai, UAE",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "lucy_lens",
+          "text": "Incredible shot!",
+          "timestamp": "2025-11-06T18:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "user": {
+        "username": "style_me",
+        "fullName": "Nina Patel",
+        "profilePic": "src/assets/users/style_me.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post15.jpeg",
+      "caption": "Fall outfit inspo 🍂 #fashionblogger",
+      "likes": 1300,
+      "isLiked": true,
+      "timestamp": "2025-11-06T19:00:00Z",
+      "location": "Milan, Italy",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "emma_art",
+          "text": "So chic!",
+          "timestamp": "2025-11-06T19:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "user": {
+        "username": "gamer_ryu",
+        "fullName": "Ryu Tanaka",
+        "profilePic": "src/assets/users/gamer_ryu.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post16.jpeg",
+      "caption": "Victory Royale 🕹️🔥",
+      "likes": 720,
+      "isLiked": false,
+      "timestamp": "2025-11-06T20:00:00Z",
+      "location": "Tokyo, Japan",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "tech_jake",
+          "text": "Let’s squad up!",
+          "timestamp": "2025-11-06T20:30:00Z"
+        },
+        {
+          "id": "c1762779708276",
+          "username": "you",
+          "text": "cvdfsdfsdfas",
+          "timestamp": "2025-11-10T13:01:48.276Z"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "user": {
+        "username": "yoga_with_me",
+        "fullName": "Priya Sharma",
+        "profilePic": "src/assets/users/yoga_with_me.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post17.jpeg",
+      "caption": "Morning peace 🧘‍♀️ #mindfulness",
+      "likes": 860,
+      "isLiked": true,
+      "timestamp": "2025-11-07T06:00:00Z",
+      "location": "Bangalore, India",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "green_thumb",
+          "text": "So calming 🪷",
+          "timestamp": "2025-11-07T06:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "user": {
+        "username": "urban_skater",
+        "fullName": "Tom Harris",
+        "profilePic": "src/assets/users/urban_skater.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post18.jpeg",
+      "caption": "Kickflip kinda day 🛹",
+      "likes": 540,
+      "isLiked": false,
+      "timestamp": "2025-11-07T08:00:00Z",
+      "location": "San Francisco, USA",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "john_doe",
+          "text": "Clean trick!",
+          "timestamp": "2025-11-07T08:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "user": {
+        "username": "food_trails",
+        "fullName": "Carlos Mendes",
+        "profilePic": "src/assets/users/food_trails.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post19.jpeg",
+      "caption": "Best tacos in town 🌮🔥",
+      "likes": 970,
+      "isLiked": true,
+      "timestamp": "2025-11-07T12:00:00Z",
+      "location": "Mexico City, Mexico",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "chef_mario",
+          "text": "I need this recipe! 🤤",
+          "timestamp": "2025-11-07T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "user": {
+        "username": "artsy_ana",
+        "fullName": "Ana Lopez",
+        "profilePic": "src/assets/users/artsy_ana.jpeg"
+      },
+      "imageUrl": "src/assets/posts/post20.jpeg",
+      "caption": "Color explosion 🎨❤️ #abstractart",
+      "likes": 1025,
+      "isLiked": true,
+      "timestamp": "2025-11-07T15:00:00Z",
+      "location": "Barcelona, Spain",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "emma_art",
+          "text": "So expressive 😍",
+          "timestamp": "2025-11-07T15:30:00Z"
+        }
+      ]
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "username": "Martin",
+      "profilePic": "src/assets/users/profile.jpeg"
+    }
+  ],
+  "suggestion": [
+    {
+      "id": "1",
+      "profilePic": "src/assets/users/john_doe.jpeg",
+      "username": "alex_vr"
+    },
+    {
+      "id": "2",
+      "profilePic": "src/assets/users/emma_art.jpeg",
+      "username": "creative_blossom"
+    },
+    {
+      "id": "3",
+      "profilePic": "src/assets/users/travel_with_ali.jpeg",
+      "username": "globe_runner"
+    },
+    {
+      "id": "4",
+      "profilePic": "src/assets/users/lucy_lens.jpeg",
+      "username": "focusframe"
+    },
+    {
+      "id": "5",
+      "profilePic": "src/assets/users/chef_mario.jpeg",
+      "username": "flavor_crafter"
+    },
+    {
+      "id": "6",
+      "profilePic": "src/assets/users/tech_jake.jpeg",
+      "username": "binary_wave"
+    },
+    {
+      "id": "7",
+      "profilePic": "src/assets/users/fitness_amy.jpeg",
+      "username": "fitpulse_amy"
+    },
+    {
+      "id": "8",
+      "profilePic": "src/assets/users/pet_paradise.jpeg",
+      "username": "paws_and_tails"
+    },
+    {
+      "id": "9",
+      "profilePic": "src/assets/users/coder_max.jpeg",
+      "username": "nightdebug"
+    },
+    {
+      "id": "10",
+      "profilePic": "src/assets/users/travel_zoe.jpeg",
+      "username": "sunset_wanderer"
+    },
+    {
+      "id": "11",
+      "profilePic": "src/assets/users/mark_music.jpeg",
+      "username": "beatfusion"
+    },
+    {
+      "id": "12",
+      "profilePic": "src/assets/users/luna_reads.jpeg",
+      "username": "chapterdreams"
+    },
+    {
+      "id": "13",
+      "profilePic": "src/assets/users/green_thumb.jpeg",
+      "username": "green_thumb"
+    },
+    {
+      "id": "14",
+      "profilePic": "src/assets/users/drone_guy.jpeg",
+      "username": "drone_guy"
+    },
+    {
+      "id": "15",
+      "profilePic": "src/assets/users/style_me.jpeg",
+      "username": "style_me"
+    },
+    {
+      "id": "16",
+      "profilePic": "src/assets/users/gamer_ryu.jpeg",
+      "username": "gamer_ryu"
+    },
+    {
+      "id": "17",
+      "profilePic": "src/assets/users/yoga_with_me.jpeg",
+      "username": "yoga_with_me"
+    },
+    {
+      "id": "18",
+      "profilePic": "src/assets/users/urban_skater.jpeg",
+      "username": "urban_skater"
+    },
+    {
+      "id": "19",
+      "profilePic": "src/assets/users/food_trails.jpeg",
+      "username": "food_trails"
+    },
+    {
+      "id": "20",
+      "profilePic": "src/assets/users/artsy_ana.jpeg",
+      "username": "artsy_ana"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "username": "john_doe",
+        "fullName": "John Doe",
+        "profilePic": "src/assets/users/john_doe.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s1.jpeg",
+      "caption": "Enjoying the sunset 🌅 #relax #nature",
+      "likes": 324,
+      "isLiked": false,
+      "timestamp": "2025-11-01T14:30:00Z",
+      "location": "Malibu Beach, California",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "sarah_w",
+          "text": "Wow, beautiful view! 😍",
+          "timestamp": "2025-11-01T15:00:00Z"
+        },
+        {
+          "id": "c2",
+          "username": "mike23",
+          "text": "Take me there next time bro!",
+          "timestamp": "2025-11-01T15:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "user": {
+        "username": "emma_art",
+        "fullName": "Emma Thompson",
+        "profilePic": "src/assets/users/emma_art.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s2.jpeg",
+      "caption": "My latest painting 🎨✨ #artistlife",
+      "likes": 742,
+      "isLiked": true,
+      "timestamp": "2025-11-02T10:00:00Z",
+      "location": "New York City",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "artlover22",
+          "text": "Amazing work! 👏",
+          "timestamp": "2025-11-02T10:30:00Z"
+        },
+        {
+          "id": "c2",
+          "username": "lucy_lens",
+          "text": "Love the color tones 😍",
+          "timestamp": "2025-11-02T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "user": {
+        "username": "travel_with_ali",
+        "fullName": "Ali Khan",
+        "profilePic": "src/assets/users/travel_with_ali.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s3.jpeg",
+      "caption": "Street food adventures 🍜 #bangkok #travel",
+      "likes": 189,
+      "isLiked": false,
+      "timestamp": "2025-11-03T08:45:00Z",
+      "location": "Bangkok, Thailand",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "food_trails",
+          "text": "Street food goals 😋",
+          "timestamp": "2025-11-03T09:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "user": {
+        "username": "lucy_lens",
+        "fullName": "Lucy Brown",
+        "profilePic": "src/assets/users/lucy_lens.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s4.jpeg",
+      "caption": "Capturing smiles 📸",
+      "likes": 520,
+      "isLiked": false,
+      "timestamp": "2025-11-03T18:30:00Z",
+      "location": "Paris, France",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "john_doe",
+          "text": "Great shot!",
+          "timestamp": "2025-11-03T19:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "user": {
+        "username": "chef_mario",
+        "fullName": "Mario Rossi",
+        "profilePic": "src/assets/users/chef_mario.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s5.jpeg",
+      "caption": "Homemade pasta night 🍝 #italianfood",
+      "likes": 987,
+      "isLiked": true,
+      "timestamp": "2025-11-04T12:00:00Z",
+      "location": "Rome, Italy",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "foodie_fan",
+          "text": "Looks delicious!",
+          "timestamp": "2025-11-04T12:20:00Z"
+        },
+        {
+          "id": "c2",
+          "username": "emma_art",
+          "text": "Teach me your recipe!",
+          "timestamp": "2025-11-04T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "user": {
+        "username": "tech_jake",
+        "fullName": "Jake Wilson",
+        "profilePic": "src/assets/users/tech_jake.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s6.jpeg",
+      "caption": "Just built a new PC ⚙️💻 #gamerlife",
+      "likes": 412,
+      "isLiked": false,
+      "timestamp": "2025-11-04T18:45:00Z",
+      "location": "Austin, Texas",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "emma_art",
+          "text": "That setup looks insane!",
+          "timestamp": "2025-11-04T19:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "user": {
+        "username": "fitness_amy",
+        "fullName": "Amy Johnson",
+        "profilePic": "src/assets/users/fitness_amy.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s7.jpeg",
+      "caption": "Leg day 🔥💪 #gymmotivation",
+      "likes": 867,
+      "isLiked": false,
+      "timestamp": "2025-11-05T09:15:00Z",
+      "location": "Los Angeles, California",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "lucy_lens",
+          "text": "Goals! 👏",
+          "timestamp": "2025-11-05T09:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "user": {
+        "username": "pet_paradise",
+        "fullName": "Sophie Turner",
+        "profilePic": "src/assets/users/pet_paradise.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s8.jpeg",
+      "caption": "Milo’s first walk 🐶❤️",
+      "likes": 1140,
+      "isLiked": true,
+      "timestamp": "2025-11-05T14:00:00Z",
+      "location": "London, UK",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "john_doe",
+          "text": "So cute!!",
+          "timestamp": "2025-11-05T14:10:00Z"
+        },
+        {
+          "id": "c2",
+          "username": "food_trails",
+          "text": "Puppy power 🐕",
+          "timestamp": "2025-11-05T14:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "user": {
+        "username": "coder_max",
+        "fullName": "Max Lee",
+        "profilePic": "src/assets/users/coder_max.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s9.jpeg",
+      "caption": "Late night debugging 💻☕ #devlife",
+      "likes": 215,
+      "isLiked": false,
+      "timestamp": "2025-11-06T01:20:00Z",
+      "location": "Seoul, South Korea",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "tech_jake",
+          "text": "I feel this 😩",
+          "timestamp": "2025-11-06T02:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "user": {
+        "username": "travel_zoe",
+        "fullName": "Zoe Carter",
+        "profilePic": "src/assets/users/travel_zoe.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s10.jpeg",
+      "caption": "Bali vibes 🌴✨ #wanderlust",
+      "likes": 1500,
+      "isLiked": true,
+      "timestamp": "2025-11-06T09:00:00Z",
+      "location": "Bali, Indonesia",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "emma_art",
+          "text": "So jealous 😍",
+          "timestamp": "2025-11-06T09:20:00Z"
+        },
+        {
+          "id": "c2",
+          "username": "travel_with_ali",
+          "text": "The dream life!",
+          "timestamp": "2025-11-06T09:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "user": {
+        "username": "mark_music",
+        "fullName": "Mark Rivera",
+        "profilePic": "src/assets/users/mark_music.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s11.jpeg",
+      "caption": "Studio session 🎶 #producerlife",
+      "likes": 650,
+      "isLiked": false,
+      "timestamp": "2025-11-06T12:00:00Z",
+      "location": "Nashville, USA",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "john_doe",
+          "text": "Drop the beat! 🔥",
+          "timestamp": "2025-11-06T12:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "user": {
+        "username": "luna_reads",
+        "fullName": "Luna Park",
+        "profilePic": "src/assets/users/luna_reads.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s12.jpeg",
+      "caption": "Current read 📚✨",
+      "likes": 328,
+      "isLiked": false,
+      "timestamp": "2025-11-06T14:00:00Z",
+      "location": "Toronto, Canada",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "emma_art",
+          "text": "Love that book!",
+          "timestamp": "2025-11-06T14:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "user": {
+        "username": "green_thumb",
+        "fullName": "Olivia Green",
+        "profilePic": "src/assets/users/green_thumb.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s13.jpeg",
+      "caption": "My new plant babies 🌿💚",
+      "likes": 204,
+      "isLiked": false,
+      "timestamp": "2025-11-06T16:30:00Z",
+      "location": "Portland, Oregon",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "luna_reads",
+          "text": "So lush! 🌱",
+          "timestamp": "2025-11-06T17:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "user": {
+        "username": "drone_guy",
+        "fullName": "Ethan Kim",
+        "profilePic": "src/assets/users/drone_guy.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s14.jpeg",
+      "caption": "Cityscape from above 🚁 #dronephotography",
+      "likes": 989,
+      "isLiked": true,
+      "timestamp": "2025-11-06T18:15:00Z",
+      "location": "Dubai, UAE",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "lucy_lens",
+          "text": "Incredible shot!",
+          "timestamp": "2025-11-06T18:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "user": {
+        "username": "style_me",
+        "fullName": "Nina Patel",
+        "profilePic": "src/assets/users/style_me.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s15.jpeg",
+      "caption": "Fall outfit inspo 🍂 #fashionblogger",
+      "likes": 1300,
+      "isLiked": true,
+      "timestamp": "2025-11-06T19:00:00Z",
+      "location": "Milan, Italy",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "emma_art",
+          "text": "So chic!",
+          "timestamp": "2025-11-06T19:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "user": {
+        "username": "gamer_ryu",
+        "fullName": "Ryu Tanaka",
+        "profilePic": "src/assets/users/gamer_ryu.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s16.jpeg",
+      "caption": "Victory Royale 🕹️🔥",
+      "likes": 720,
+      "isLiked": false,
+      "timestamp": "2025-11-06T20:00:00Z",
+      "location": "Tokyo, Japan",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "tech_jake",
+          "text": "Let’s squad up!",
+          "timestamp": "2025-11-06T20:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "user": {
+        "username": "yoga_with_me",
+        "fullName": "Priya Sharma",
+        "profilePic": "src/assets/users/yoga_with_me.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s17.jpeg",
+      "caption": "Morning peace 🧘‍♀️ #mindfulness",
+      "likes": 860,
+      "isLiked": true,
+      "timestamp": "2025-11-07T06:00:00Z",
+      "location": "Bangalore, India",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "green_thumb",
+          "text": "So calming 🪷",
+          "timestamp": "2025-11-07T06:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "user": {
+        "username": "urban_skater",
+        "fullName": "Tom Harris",
+        "profilePic": "src/assets/users/urban_skater.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s18.jpeg",
+      "caption": "Kickflip kinda day 🛹",
+      "likes": 540,
+      "isLiked": false,
+      "timestamp": "2025-11-07T08:00:00Z",
+      "location": "San Francisco, USA",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "john_doe",
+          "text": "Clean trick!",
+          "timestamp": "2025-11-07T08:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "user": {
+        "username": "food_trails",
+        "fullName": "Carlos Mendes",
+        "profilePic": "src/assets/users/food_trails.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s19.jpeg",
+      "caption": "Best tacos in town 🌮🔥",
+      "likes": 970,
+      "isLiked": true,
+      "timestamp": "2025-11-07T12:00:00Z",
+      "location": "Mexico City, Mexico",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "chef_mario",
+          "text": "I need this recipe! 🤤",
+          "timestamp": "2025-11-07T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "user": {
+        "username": "artsy_ana",
+        "fullName": "Ana Lopez",
+        "profilePic": "src/assets/users/artsy_ana.jpeg"
+      },
+      "imageUrl": "/src/assets/stories/s20.jpeg",
+      "caption": "Color explosion 🎨❤️ #abstractart",
+      "likes": 1025,
+      "isLiked": true,
+      "timestamp": "2025-11-07T15:00:00Z",
+      "location": "Barcelona, Spain",
+      "comments": [
+        {
+          "id": "c1",
+          "username": "emma_art",
+          "text": "So expressive 😍",
+          "timestamp": "2025-11-07T15:30:00Z"
+        }
+      ]
+    }
+  ]
+}
